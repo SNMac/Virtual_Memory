@@ -429,11 +429,7 @@ lang=EN-US>.</span></p>
 width=602 height=384 id="그림 14" src="README.fld/image008.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>↑ 비어 있는 페이지 디렉토리 엔트리는 페이지 테이블이 존재하지 않으므로</span></p>
-
-<p class=MsoNormal align=center style='text-align:center'><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>메모리를 차지하지 않는다</span><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'>.</span></p>
+style='font-family:"맑은 고딕",sans-serif'>↑ 비어 있는 페이지 디렉토리 엔트리는 페이지 테이블이 존재하지 않으므로 메모리를 차지하지 않는다.</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -548,10 +544,9 @@ style='font-family:"맑은 고딕",sans-serif'>이루어진다</span><span lang=
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US><img width=474 height=358 id="그림 15" src="README.fld/image009.png"></span></p>
-
-<p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'>                                   </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>↑ 메모리 스와핑</span></p>
+  
+ <p class=MsoNormal align=center style='text-align:center'><span lang=KO
+style='font-family:"맑은 고딕",sans-serif'>↑ 메모리 스와핑</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:4.0pt'><span
 lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;
@@ -675,18 +670,6 @@ style='font-family:"맑은 고딕",sans-serif'>사용하여</span><span lang=KO>
 lang=KO style='font-family:"맑은 고딕",sans-serif'>컴파일</span><span lang=KO> </span><span
 lang=KO style='font-family:"맑은 고딕",sans-serif'>가능</span><span lang=KO> </span><span
 lang=EN-US>(macOS)</span></p>
-
-<p class=MsoListParagraph style='margin-left:38.0pt;text-indent:-18.0pt'><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'>※<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span><span lang=EN-US>Linux(assam </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>서버</span><span lang=EN-US>)</span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>의</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>경우</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>컴파일은</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>가능하지만</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>바르게</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>동작하지</span><span lang=KO> </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>않음</span></p>
 
 <p class=MsoNormal><span lang=KO style='font-family:"맑은 고딕",sans-serif'>소스</span><span
 lang=KO> </span><span lang=KO style='font-family:"맑은 고딕",sans-serif'>파일</span><span
