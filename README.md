@@ -56,14 +56,7 @@ id="그림 2" src="README.fld/image002.png"></span></p>
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>MMU</span><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>가 가상 주소를 물리 주소로 변환한다</span><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span><a href="#_edn1"
-name="_ednref1" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[i]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(</span><span lang=KO
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>네이버 블로그</span><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>, n.d.)</span></p>
+lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -125,12 +118,7 @@ lang=EN-US style='font-family:"맑은 고딕",sans-serif'><img width=842 height=
 id="그림 1" src="README.fld/image003.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>↑ 외부 파편화에 의해 새로운 프로세스를 생성하지 못하는 경우</span><a
-href="#_edn2" name="_ednref2" title=""><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[ii]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(GeeksforGeeks, n.d.)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>↑ 외부 파편화에 의해 새로운 프로세스를 생성하지 못하는 경우</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:4.0pt'><span
 lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -141,12 +129,7 @@ id="그림 5" src="README.fld/image004.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ 페이징 기법은 외부 파편화가 발생하지 않는다</span><span
-lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span><a href="#_edn3"
-name="_ednref3" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[iii]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(Tistory, 2020)</span></p>
+lang=EN-US style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:5.0pt'><span
 lang=EN-US style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -189,10 +172,7 @@ id="그림 8" src="README.fld/image005.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ 내부 파편화에 의해 프레임 내부에서 낭비되는 공간이 생긴다</span><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>.<a
-href="#_edn4" name="_ednref4" title=""><span class=MsoEndnoteReference><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[iv]</span></span></span></a>(GeeksforGeeks, n.d.)</span></p>
+lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>.</p>
 
 <p class=MsoNormal><span lang=EN-US style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
 
@@ -213,10 +193,7 @@ id="그림 11" src="README.fld/image006.png"></span></p>
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ 운영체제는 사용 가능한 프레임과 프로세스의 페이지 테이블을 관리한다</span><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>.<a
-href="#_edn5" name="_ednref5" title=""><span class=MsoEndnoteReference><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[v]</span></span></span></a>(Tistory, 2020)</span></p>
+lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>.</p>
 
 <p class=MsoNormal><span lang=EN-US style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
 
@@ -311,12 +288,7 @@ width=554 height=480 id="그림 12" src="README.fld/image007.png"></span></p>
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>16</span><span lang=KO style='font-family:
-"맑은 고딕",sans-serif'>비트 주소 체계에서 가상 주소를 물리 주소로 변환하는 과정</span><a href="#_edn6"
-name="_ednref6" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[vi]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(Crocus, n.d.)</span></p>
+"맑은 고딕",sans-serif'>비트 주소 체계에서 가상 주소를 물리 주소로 변환하는 과정</span></p>
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>&nbsp;</span></p>
@@ -461,12 +433,7 @@ style='font-family:"맑은 고딕",sans-serif'>↑ 비어 있는 페이지 디�
 
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>메모리를 차지하지 않는다</span><span lang=EN-US
-style='font-family:"맑은 고딕",sans-serif'>.</span><a href="#_edn7" name="_ednref7"
-title=""><span class=MsoEndnoteReference><span lang=EN-US style='font-size:
-8.0pt;font-family:"맑은 고딕",sans-serif'><span class=MsoEndnoteReference><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>[vii]</span></span></span></span></a><span
-lang=EN-US style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(Tistory,
-2020)</span></p>
+style='font-family:"맑은 고딕",sans-serif'>.</span></p>
 
 <p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
 
@@ -584,12 +551,7 @@ lang=EN-US><img width=474 height=358 id="그림 15" src="README.fld/image009.png
 
 <p class=MsoNormal align=left style='text-align:left'><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>                                   </span><span
-lang=KO style='font-family:"맑은 고딕",sans-serif'>↑ 메모리 스와핑</span><a href="#_edn8"
-name="_ednref8" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[viii]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(Data Science Lab, 2015)</span></p>
+lang=KO style='font-family:"맑은 고딕",sans-serif'>↑ 메모리 스와핑</span></p>
 
 <p class=MsoNormal align=center style='text-align:center;text-indent:4.0pt'><span
 lang=EN-US style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;
@@ -683,14 +645,7 @@ lang=EN-US><img width=728 height=226 id="그림 13" src="README.fld/image010.png
 <p class=MsoNormal align=center style='text-align:center'><span lang=KO
 style='font-family:"맑은 고딕",sans-serif'>↑ </span><span lang=EN-US
 style='font-family:"맑은 고딕",sans-serif'>LRU </span><span lang=KO
-style='font-family:"맑은 고딕",sans-serif'>알고리즘의 동작 방식</span><a href="#_edn9"
-name="_ednref9" title=""><span class=MsoEndnoteReference><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'><span
-class=MsoEndnoteReference><span lang=EN-US style='font-size:8.0pt;font-family:
-"맑은 고딕",sans-serif'>[ix]</span></span></span></span></a><span lang=EN-US
-style='font-size:8.0pt;font-family:"맑은 고딕",sans-serif'>(Medium, 2019)</span></p>
-
-<p class=MsoNormal><span lang=EN-US>&nbsp;</span></p>
+style='font-family:"맑은 고딕",sans-serif'>알고리즘의 동작 방식</span></p>
 
 <p class=MsoNormal><span lang=EN-US style='font-size:24.0pt'>&nbsp;</span></p>
 
